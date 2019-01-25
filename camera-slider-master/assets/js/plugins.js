@@ -33,6 +33,7 @@
 //Camera Slide-Show Custom Js Here.
 $(function () {
     $('.camera_wrap').camera({
+        playPause: true,
         navigation: true,
         navigationHover: true,
         hover: false,
